@@ -11,6 +11,22 @@
             //komaga number
             double comanumber = 12.5;
             Console.WriteLine(comanumber);
+
+            //tähemärk
+            string stringVar = "grk747df";
+            Console.WriteLine(stringVar);
+
+            //float
+            float floatvariable = 16.66f;
+            Console.WriteLine(floatvariable);
+
+            //string
+            char charVariable = "2";
+            Console.WriteLine(charVariable);
+
+            //bool
+            bool boolVariable = false;
+            Console.WriteLine(boolVariable);
         }
     }
 }
